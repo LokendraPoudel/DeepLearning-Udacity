@@ -1,4 +1,4 @@
-This repository contains my projects works of my deep learning nano degree program.
+This repository contains my projects works of deep learning nano degree program.
 
 
 Project1:NN-MNIST dataset
